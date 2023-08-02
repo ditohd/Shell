@@ -117,8 +117,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 ## List Of Directory
-<details>
-  <summary>Directory Files</summary>
+  
+<summary>Directory Files</summary>
   <pre>
     <code>
 ┌──(root㉿localhost)-[/]
@@ -153,7 +153,6 @@ Volume serial number is 47UL-D170
     └── <a href="https://github.com/bellshade/Shell/tree/main/Useful_Commands/05_look_services">📁 05_look_services</a>
     </code>
   </pre>
-</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
