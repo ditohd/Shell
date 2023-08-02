@@ -29,34 +29,6 @@
 </div>
 
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#tentang-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-      <ul>
-        <li><a href="#buka-terminal">Buka Terminal</a></li>
-        <li><a href="#mengetik-perintah-shell">Mengetik Perintah Shell</a></li>
-        <li><a href="#menjalankan-script-shell">Menjalankan Script Shell</a></li>
-      </ul>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#list-of-directory">List Of Directory</a></li>
-  </ol>
-</details>
-
-<details>
   <summary>Daftar Isi</summary>
   <pre>
     <code>
