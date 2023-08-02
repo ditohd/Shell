@@ -31,7 +31,7 @@
 <details>
   <summary>Daftar Isi</summary>
   <pre>
-    <code>
+  <code>
 ┌──(root㉿localhost)-[/]
 └─$tree
 Folder PATH listing for volume SHELL
@@ -46,7 +46,7 @@ Volume serial number is 47UL-D170
 ├── <a href="#roadmap">📁 Roadmap</a>
 ├── <a href="#license">📁 License</a>
 └── <a href="#list-of-directory">📁 List Of Directory</a>
-    </code>
+</code>
   </pre>
 </details>
 
