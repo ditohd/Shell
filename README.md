@@ -117,15 +117,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 ## List Of Directory
-  
-<summary>Directory Files</summary>
+
   <pre>
     <code>
 ┌──(root㉿localhost)-[/]
 └─$tree
 Folder PATH listing for volume GitHub
 Volume serial number is 47UL-D170
-├── <a href="https://github.com/bellshade/shell/tree/main/Basic"><b>📁 Basic</b></a>
+├── <a href="https://github.com/bellshade/Shell/tree/main/Basic"><b>📁 Basic</b></a>
 │   ├── <a href="https://github.com/bellshade/Shell/tree/main/Basic/00_hello_world">📁 00_Hello_World</a>
 │   ├── <a href="https://github.com/bellshade/Shell/tree/main/Basic/01_variabel">📁 01_variabel</a>
 │   ├── <a href="https://github.com/bellshade/Shell/tree/main/Basic/02_variabel_spesial">📁 02_variabel_spesial</a>
